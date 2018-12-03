@@ -5,7 +5,7 @@ import pandas as pd
 
 '''
 author: Arthur Luo
-3.6.4 |Anaconda custom (64-bit)
+Python 3.6.4 |Anaconda custom (64-bit)
 '''
 
 pd.set_option('expand_frame_repr', False)
